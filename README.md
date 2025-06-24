@@ -25,3 +25,12 @@ The purpose of this project is to:
    ```bash
    git clone https://github.com/your-username/nodejs-basics-practice.git
    cd nodejs-basics-practice
+   '''
+
+## Install Node.js from nodejs.org if you haven't already.
+
+## Run any sample script using:
+ ```bash
+node filename.js
+''''
+
