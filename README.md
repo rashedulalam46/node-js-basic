@@ -31,8 +31,10 @@ The purpose of this project is to:
 
 ## Install Node.js from nodejs.org if you haven't already.
 
-## R▶️ Run the Project
+## ▶️ Run the Project
 
 ```bash
 node index.js
 ```
+
+## Open your browser and go to http://localhost:3000
