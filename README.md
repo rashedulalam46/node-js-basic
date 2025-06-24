@@ -38,3 +38,36 @@ node index.js
 ```
 
 ## Open your browser and go to http://localhost:3000
+
+## 📚 Topics Covered
+✅ Setting up Node.js and npm
+
+✅ Running JavaScript files with node
+
+✅ Working with core modules:
+
+http – Create basic web servers
+
+fs – File system operations (read/write files)
+
+path – Path utilities
+
+events – Event emitters
+
+✅ Asynchronous programming using callbacks and Promises
+
+✅ Basic CLI tools using Node.js
+
+✅ Creating and importing custom modules
+
+✅ package.json and npm scripts
+
+
+## 🛠 Tools Used
+Node.js
+
+Visual Studio Code
+
+npm
+
+Git & GitHub
