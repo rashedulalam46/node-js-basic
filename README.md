@@ -64,10 +64,7 @@ events – Event emitters
 
 
 ## 🛠 Tools Used
-Node.js
-
-Visual Studio Code
-
-npm
-
-Git & GitHub
+-Node.js
+-Visual Studio Code
+-npm
+-Git & GitHub
