@@ -23,5 +23,5 @@ The purpose of this project is to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nodejs-basics-practice.git
-   cd nodejs-basics-practice
+   git clone https://github.com/rashedulalam46/node-js-basic.git
+   cd nodejs-basic
