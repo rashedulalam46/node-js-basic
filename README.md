@@ -25,3 +25,14 @@ The purpose of this project is to:
    ```bash
    git clone https://github.com/rashedulalam46/node-js-basic.git
    cd nodejs-basic
+   ```
+
+
+
+## Install Node.js from nodejs.org if you haven't already.
+
+## R▶️ Run the Project
+
+```bash
+node index.js
+```
