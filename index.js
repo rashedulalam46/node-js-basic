@@ -1,7 +1,5 @@
 //console.log('Hello, World!');
 
-
-
 // This is a simple Node.js server that responds with a welcome message
 
 const http = require('http');
